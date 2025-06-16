@@ -1,3 +1,11 @@
-p {
-    color: violet;
+/* This styles a div element */
+div {
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333333;           /* Dark text color */
+  padding: 20px;            /* Inner spacing */
+  margin: 15px;             /* Outer spacing */
+  border-radius: 8px;       /* Slightly rounded corners */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  font-family: Arial, sans-serif; /* Readable font */
+  text-align: center;       /* Center-align text */
 }
